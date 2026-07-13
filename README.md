@@ -63,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1291-sequential-digits) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
