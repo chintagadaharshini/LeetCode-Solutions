@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -72,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
