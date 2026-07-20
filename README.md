@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1260-shift-2d-grid](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
