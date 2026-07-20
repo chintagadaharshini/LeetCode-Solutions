@@ -1,10 +1,11 @@
 class Solution(object):
     def majorityElement(self, nums):
-        counts={}
-        treshold=len(nums)//2
+        counts = {}
         for num in nums:
-            counts[num]=counts.get(num,0)+1
-            if counts[num]>treshold:
+            if num in counts:
+                counts[num]+=1
+            else:
+                counts[num]=1
+            if counts[num]>len(nums)//2:
                 return num
-
         
