@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
