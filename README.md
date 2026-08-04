@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0318-maximum-product-of-word-lengths](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0349-intersection-of-two-arrays](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0844-backspace-string-compare](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
