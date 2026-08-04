@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0179-largest-number) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0877-stone-game) |
