@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
