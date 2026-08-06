@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0991-broken-calculator](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0991-broken-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0991-broken-calculator](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0991-broken-calculator) |
 | [1406-stone-game-iii](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
