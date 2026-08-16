@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
