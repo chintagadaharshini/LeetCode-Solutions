@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0706-design-hashmap](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0706-design-hashmap](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [1331-rank-transform-of-an-array](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -476,4 +478,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
