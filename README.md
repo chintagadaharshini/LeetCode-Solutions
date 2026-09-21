@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+| [1189-maximum-number-of-balloons](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
