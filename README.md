@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0338-counting-bits) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
@@ -520,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
