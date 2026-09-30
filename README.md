@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0706-design-hashmap](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0740-delete-and-earn](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0740-delete-and-earn](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+| [0740-delete-and-earn](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [1096-brace-expansion-ii](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
