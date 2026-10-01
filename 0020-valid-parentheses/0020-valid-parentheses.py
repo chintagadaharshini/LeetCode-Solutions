@@ -1,13 +1,20 @@
 class Solution:
-    def isValid(self, s: str) -> bool:
-        stack=[]
-        match_map={')':'(',']':'[','}':'{'}
-        for c in s:
-            if c in match_map:
-                if not stack or stack.pop()!=match_map[c]:
-                    return False
-            else:
-                    stack.append(c)
-        return len(stack)==0
+    def isValid(self, s):
+        stack = []
 
-        
+        pairs = {
+            ')': '(',
+            ']': '[',
+            '}': '{'
+        }
+
+        for ch in s:
+            if ch in '([{':
+                stack.append(ch)
+            else:
+                if not stack or stack[-1] != pairs[ch]:
+                    return False
+
+                stack.pop()
+
+        return len(stack) == 0
