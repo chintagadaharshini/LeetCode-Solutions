@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0349-intersection-of-two-arrays](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0416-partition-equal-subset-sum](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0343-integer-break) |
+| [0416-partition-equal-subset-sum](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0740-delete-and-earn](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -550,4 +552,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/chintagadaharshini/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
